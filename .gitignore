@@ -1,1 +1,24 @@
+# Maven
+target/
+*.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+__MACOSX/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+application-local.properties
+
+# Temporary files
+*.tmp
+*.swp
 
